@@ -1,5 +1,4 @@
 
-//this code will solve the elephant problem of codeforces
 
 #include<stdio.h>
 
