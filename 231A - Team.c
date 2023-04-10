@@ -1,5 +1,5 @@
 
- //Program for codeforces team problem
+ //program for codeforces team problem
 
 #include<stdio.h>
 
