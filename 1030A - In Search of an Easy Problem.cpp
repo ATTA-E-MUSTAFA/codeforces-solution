@@ -1,5 +1,6 @@
 
 //Program to search the easy prolem
+
 #include <iostream>
 
 using namespace std;
