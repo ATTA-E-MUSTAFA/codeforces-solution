@@ -36,6 +36,7 @@ cin>>opinion;
         count_1++;
 
     }
+
 }
 
     if(count_1>=1){
