@@ -31,7 +31,8 @@ cin>>opinion;
         
     //when person thinks that the problem is hard
         
-    else if(opinion==1){
+    else if(opinion==1)
+    {
 
         count_1++;
 
