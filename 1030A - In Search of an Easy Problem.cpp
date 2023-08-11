@@ -11,7 +11,7 @@ int numOfPeoples=0;
 
 cin>>numOfPeoples;
 
-int opinion;
+int opinion=0;
 
 int count_0=0;          //counting all the easy answers
 
