@@ -17,11 +17,13 @@ int main() {
 	for (int i = num - 1; i >= 0; i--)
 	{
 		for (; j >= 0;) {
-			if ((n[i] - n[j]) <= 5) {
+			if ((n[i] - n[j]) <= 5)
+			{
 				j--;
 				ans = max(ans, i - j);
 			}
-			else {
+			else
+			{
 				break;
 			}
 		}
