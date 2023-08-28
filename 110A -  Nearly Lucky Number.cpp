@@ -31,12 +31,12 @@ if(rem==7||rem==4){
 
 if(count_num==7 || count_num==4){
 
-    printf("YES");
+    cout<<"YES\n";
 
 }
 else{
 
-    printf("NO");
+    cout<<"NO\n";
 
 }
      
