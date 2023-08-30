@@ -33,8 +33,7 @@ if(count_num==7 || count_num==4){
 }
 else{
 
-    cout<<"NO\n";
-
+    printf("NO\n");
 }
      
 }
