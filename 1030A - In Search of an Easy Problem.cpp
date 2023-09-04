@@ -5,7 +5,6 @@ int main() {
 
 int numOfPeoples=0;
     
-
 cin>>numOfPeoples;
 
 int opinion=0;
