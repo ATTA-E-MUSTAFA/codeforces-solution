@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-
 int numOfPeoples=0;
     
 cin>>numOfPeoples;
