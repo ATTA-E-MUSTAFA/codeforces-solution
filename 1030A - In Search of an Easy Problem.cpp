@@ -8,7 +8,6 @@ int opinion=0;
 int count_0=0;          //counting all the easy answers
 int count_1=0;          //counting all the hard answers
 for(int i=0;i<numOfPeoples;i++){
-
 cin>>opinion;
 
     //when person thinks that the problem is easy
