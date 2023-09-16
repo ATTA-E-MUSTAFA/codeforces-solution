@@ -11,6 +11,7 @@ cin>>opinion;
     //when person thinks that the problem is easy 
     if(opinion==0){
 
+        
         count_0++;
 
     }
