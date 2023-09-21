@@ -12,8 +12,7 @@ cin>>opinion;
     if(opinion==0){
         count_0++;
     }
-    //when person thinks that the problem is hard
-        
+    //when person thinks that the problem is har
     else if(opinion==1)
     {
 
