@@ -15,7 +15,6 @@ cin>>opinion;
     //when person thinks that the problem is har
     else if(opinion==1)
     {
-
         count_1++;
 
     }
