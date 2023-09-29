@@ -17,6 +17,7 @@ cin>>opinion;
     {
         count_1++;
 
+        
     }
 
 }
