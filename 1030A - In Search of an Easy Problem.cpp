@@ -16,7 +16,6 @@ cin>>opinion;
     else if(opinion==1)
     {
         count_1++;
-
     }
 
 }
