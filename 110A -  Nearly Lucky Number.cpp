@@ -4,7 +4,6 @@ int main(){
 long long num;
 
 cin>>num;
-
 long long count_num=0;
 
 long long num2 = num;
