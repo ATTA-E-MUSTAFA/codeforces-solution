@@ -3,6 +3,7 @@ using namespace std;
 int main(){
 long long num;
 
+     
 cin>>num;
 long long count_num=0;
 
