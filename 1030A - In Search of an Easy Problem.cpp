@@ -22,6 +22,7 @@ cin>>opinion;
 
         cout<<"HARD";
 
+        
     }
     else{
 
