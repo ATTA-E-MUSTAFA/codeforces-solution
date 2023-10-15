@@ -24,7 +24,6 @@ cin>>opinion;
 
     }
     else{
-
         cout<<"easy";
 
     }
