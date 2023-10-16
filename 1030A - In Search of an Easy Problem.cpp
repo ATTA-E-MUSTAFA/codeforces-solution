@@ -20,6 +20,7 @@ cin>>opinion;
 }
     if(count_1>=1){
 
+        
         cout<<"HARD";
 
     }
